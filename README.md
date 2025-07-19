@@ -277,7 +277,6 @@ Code quality tools are configured for consistent code style.
 ## 📖 Documentation
 
 - **[Setup Guide](./run.md)**: Detailed installation and setup instructions
-- **[Enhancement Roadmap](./enhanced.md)**: Future improvements and scalability plans
 - **API Documentation**: Available in the code comments
 
 ## 🐛 Troubleshooting
