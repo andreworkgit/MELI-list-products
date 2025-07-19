@@ -1,0 +1,229 @@
+[
+  {
+    "id": "1",
+    "title": "Apple iPhone 15 Pro Max 256GB Space Black",
+    "description": "El iPhone 15 Pro Max redefine lo que un smartphone puede hacer. Con el chip A17 Pro, cámara de 48MP con zoom óptico 5x, y batería que dura todo el día.",
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=500&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=500&h=500&fit=crop&crop=center"
+    ],
+    "basePrice": 1299.99,
+    "discountedPrice": 1199.99,
+    "currency": "USD",
+    "paymentMethods": [
+      "Credit Card",
+      "Debit Card",
+      "PayPal",
+      "MercadoPago"
+    ],
+    "seller": {
+      "name": "Apple Store Oficial",
+      "rating": 4.9,
+      "location": "Ciudad Autónoma de Buenos Aires",
+      "contact": "apple.store@mercadolibre.com"
+    },
+    "specifications": {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "storage": "256GB",
+      "color": "Space Black",
+      "display": "6.7-inch Super Retina XDR",
+      "processor": "A17 Pro chip"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excelente producto, muy rápido y la cámara es increíble",
+        "author": "Juan P.",
+        "date": "2024-01-15"
+      },
+      {
+        "rating": 4,
+        "comment": "Muy bueno pero el precio es alto",
+        "author": "María L.",
+        "date": "2024-01-10"
+      }
+    ],
+    "stockQuantity": 25,
+    "shippingInfo": {
+      "freeShipping": true,
+      "estimatedDays": 2
+    },
+    "category": "Electronics"
+  },
+  {
+    "id": "2",
+    "title": "Samsung Galaxy S24 Ultra 512GB Titanium Gray",
+    "description": "Samsung Galaxy S24 Ultra con S Pen integrado, cámara de 200MP con zoom espacial 100x, y pantalla Dynamic AMOLED 2X de 6.8 pulgadas.",
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop&crop=center"
+    ],
+    "basePrice": 1399.99,
+    "currency": "USD",
+    "paymentMethods": [
+      "Credit Card",
+      "Debit Card",
+      "MercadoPago"
+    ],
+    "seller": {
+      "name": "Samsung Store",
+      "rating": 4.8,
+      "location": "São Paulo, Brasil",
+      "contact": "samsung@mercadolibre.com"
+    },
+    "specifications": {
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "storage": "512GB",
+      "color": "Titanium Gray",
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 3"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "El S Pen es fantástico para trabajar",
+        "author": "Carlos M.",
+        "date": "2024-01-20"
+      }
+    ],
+    "stockQuantity": 15,
+    "shippingInfo": {
+      "freeShipping": true,
+      "estimatedDays": 3
+    },
+    "category": "Electronics"
+  },
+  {
+    "id": "3",
+    "title": "MacBook Pro 14 M3 Pro 18GB RAM 512GB SSD Space Black",
+    "description": "MacBook Pro de 14 pulgadas con chip M3 Pro, 18GB de memoria unificada y SSD de 512GB. Pantalla Liquid Retina XDR.",
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop&crop=center"
+    ],
+    "basePrice": 2399.99,
+    "currency": "USD",
+    "paymentMethods": [
+      "Credit Card",
+      "Debit Card",
+      "PayPal"
+    ],
+    "seller": {
+      "name": "TechStore Premium",
+      "rating": 4.7,
+      "location": "Mexico City, México",
+      "contact": "techstore@mercadolibre.com"
+    },
+    "specifications": {
+      "brand": "Apple",
+      "model": "MacBook Pro 14",
+      "processor": "M3 Pro chip",
+      "memory": "18GB",
+      "storage": "512GB SSD",
+      "display": "14-inch Liquid Retina XDR"
+    },
+    "reviews": [],
+    "stockQuantity": 8,
+    "shippingInfo": {
+      "freeShipping": true,
+      "estimatedDays": 5
+    },
+    "category": "Electronics"
+  },
+  {
+    "id": "4",
+    "title": "Nike Air Max 270 - Zapatillas Deportivas Hombre",
+    "description": "Zapatillas Nike Air Max 270 con tecnología Air Max visible y amortiguación superior. Perfectas para running y uso casual.",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop&crop=center"
+    ],
+    "basePrice": 149.99,
+    "discountedPrice": 119.99,
+    "currency": "USD",
+    "paymentMethods": [
+      "Credit Card",
+      "Debit Card",
+      "MercadoPago"
+    ],
+    "seller": {
+      "name": "Nike Store Oficial",
+      "rating": 4.6,
+      "location": "Bogotá, Colombia",
+      "contact": "nike.store@mercadolibre.com"
+    },
+    "specifications": {
+      "brand": "Nike",
+      "model": "Air Max 270",
+      "type": "Running Shoes",
+      "gender": "Men",
+      "material": "Mesh and Synthetic"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Súper cómodas y se ven geniales",
+        "author": "Luis R.",
+        "date": "2024-01-12"
+      },
+      {
+        "rating": 4,
+        "comment": "Buena calidad, llegaron rápido",
+        "author": "Ana G.",
+        "date": "2024-01-08"
+      }
+    ],
+    "stockQuantity": 50,
+    "shippingInfo": {
+      "freeShipping": false,
+      "estimatedDays": 7
+    },
+    "category": "Fashion"
+  },
+  {
+    "id": "5",
+    "title": "Updated Product",
+    "description": "Consola PlayStation 5 Standard Edition con unidad de disco. Incluye control DualSense y juego Astro's Playroom preinstalado.",
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500&h=500&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=500&h=500&fit=crop&crop=center"
+    ],
+    "basePrice": 499.99,
+    "currency": "USD",
+    "paymentMethods": [
+      "Credit Card",
+      "Debit Card",
+      "MercadoPago",
+      "PayPal"
+    ],
+    "seller": {
+      "name": "GameZone",
+      "rating": 4.5,
+      "location": "Lima, Perú",
+      "contact": "gamezone@mercadolibre.com"
+    },
+    "specifications": {
+      "brand": "Sony",
+      "model": "PlayStation 5",
+      "type": "Gaming Console",
+      "storage": "825GB SSD",
+      "resolution": "4K Ultra HD"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Increíble experiencia de juego, los gráficos son espectaculares",
+        "author": "Diego F.",
+        "date": "2024-01-18"
+      }
+    ],
+    "stockQuantity": 12,
+    "shippingInfo": {
+      "freeShipping": true,
+      "estimatedDays": 4
+    },
+    "category": "Gaming"
+  }
+]
