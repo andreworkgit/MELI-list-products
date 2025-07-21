@@ -1,7 +1,5 @@
 # Design e Desafios / Design and Challenges
 
-##  Escolhas de Design (Português)
-
 Para o desenvolvimento da aplicação, optei por utilizar o **Next.js** como framework principal, por sua capacidade de unificar frontend e backend em um único projeto. Essa escolha foi motivada pela facilidade de roteamento baseado em arquivos, suporte nativo a server-side rendering (SSR) e API Routes, o que me permitiu entregar rapidamente uma arquitetura integrada e de excelente desempenho.
 
 O layout da página de produto foi inspirado diretamente na interface do **Mercado Livre**. Para acelerar a prototipagem visual e estrutural, utilizei ferramentas de IA generativa que me ajudaram a explorar rapidamente variações de layout e organização dos elementos, garantindo uma boa experiência visual.
@@ -13,8 +11,6 @@ Um dos desafios enfrentados foi a persistência dos dados sem o uso de um banco 
 Por fim, para alcançar uma **cobertura de testes superior a 80%** nos endpoints da API backend, dediquei atenção especial aos testes automatizados. Utilizei **Jest**, cobrindo tanto os endpoints quanto os fluxos principais, assegurando o comportamento esperado e o tratamento adequado de falhas.
 
 ---
-
-##  Design Choices (English)
 
 For the development of this application, I chose **Next.js** as the main framework due to its ability to unify frontend and backend in a single project. This decision was driven by its file-based routing, native support for server-side rendering (SSR), and API Routes, which allowed me to deliver an integrated and high-performance architecture quickly.
 
